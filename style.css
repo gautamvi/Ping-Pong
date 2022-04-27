@@ -7,3 +7,13 @@
 #start, #status{
     font-size: 20px;
 }
+
+button{
+    width: 15%;
+}
+
+h4{
+    background-color: rgb(196, 227, 255);
+    line-height: 2;
+    margin: 0px;
+}
